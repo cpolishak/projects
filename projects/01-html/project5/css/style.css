@@ -18,8 +18,9 @@ img {
 
 .table2 {
     width: 65%;
+    border: 2px solid #000;
 }
 
-.table1 {
+#table1 {
     border: 10px outset gray;
 }
