@@ -1,0 +1,42 @@
+html, body {
+    background: url('../images/background.jpg') center center no-repeat;
+    height: 100%;
+    background-size: cover;
+    color: gray;
+}
+
+#next {
+    color: gray;
+    font-size: 1.5em;
+}
+
+.form-group {
+    display: inline-flex;
+}
+
+.form-group input {
+    justify-content: flex-end;
+}
+
+.btn {
+    background-color: lightgray;
+    margin-right: 5px;
+}
+
+#signup {
+    background-color: #28a745;
+}
+
+.container {
+    color: white;
+    font-size: 4em;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.headline {
+    padding-top: 20%;
+    font-weight: 900;
+}
+

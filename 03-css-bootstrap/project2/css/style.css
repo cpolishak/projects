@@ -1,0 +1,67 @@
+body, html {
+    height: 90%;
+    margin:0;
+    padding:0;
+  }
+
+.bg {
+    background-image: url("../images/background.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+} 
+
+.logob {
+    max-width: 8%;
+    margin: 0 20px;
+}
+
+.nav-link:hover {
+    background-color: lightgray;
+}
+
+/* .container .row {
+    padding-top: 20%;
+    padding-bottom: 20%;
+} */
+
+/* For the heading in pages */
+/* .container {
+    height: 300px;
+    position: absolute;
+    top: 100px; 
+} */
+
+/* for bg image 2 in About pg */
+.img-responsive {
+    width: 100vw;
+}
+
+#social {
+    font-size: 4em;
+    font-weight: 900;
+}
+
+.mb-2 {
+    max-width: 150px;
+   
+}
+
+/* For background in Contact page */
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+    font-size: 2em;
+    text-align: center;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+}
