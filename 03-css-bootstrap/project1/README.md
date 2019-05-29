@@ -10,7 +10,7 @@ This page was created to show some features of bootstrap. The sign up is not set
 
 To be deployed on a locally hosted environment or live server.
 ##
-To do so - Clone all files to local environment 
+To do so - Clone all files to local environment. Then open any of the html files to see pages.
 
 ## Built With
 
