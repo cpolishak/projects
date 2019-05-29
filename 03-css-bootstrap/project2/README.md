@@ -1,6 +1,6 @@
 # Bootstrap project 2
 
-![screenshot]()
+![screenshot](https://github.com/cpolishak/projects/blob/master/03-css-bootstrap/project2/images/css2.png)
 
 I created this page from the ground up using bootstrap, html, css. 
 ## 
