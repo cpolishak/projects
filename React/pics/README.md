@@ -1,6 +1,6 @@
 ![Screenshot](https://github.com/cpolishak/projects/blob/master/React/pics/public/picsapp.png)
 
-## Pictures App
+## React Pictures API App
 
 This application will let you make a search query and will return results from Unsplash.com in a nicely organized grid.
 Enjoy!
