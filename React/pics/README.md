@@ -2,7 +2,8 @@
 
 ## Pictures App
 
-This application will let you make a search query and will return results from Unsplash.com in a nicely organized Grid
+This application will let you make a search query and will return results from Unsplash.com in a nicely organized grid.
+Enjoy!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
