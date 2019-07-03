@@ -1,3 +1,5 @@
+![Screenshot](https://github.com/cpolishak/projects/blob/master/React/pics/public/picsapp.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
