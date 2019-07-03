@@ -1,5 +1,9 @@
 ![Screenshot](https://github.com/cpolishak/projects/blob/master/React/pics/public/picsapp.png)
 
+## Pictures App
+
+This application will let you make a search query and will return results from Unsplash.com in a nicely organized Grid
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
