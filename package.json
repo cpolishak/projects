@@ -1,0 +1,19 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "These are projects that I have created. Each folder pertains to the language, framework, library, database, etc. with which it was labeled.  ## I will be creating some README's for each of the projects as well as I continue to hone my skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpolishak/projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpolishak/projects/issues"
+  },
+  "homepage": "https://github.com/cpolishak/projects#readme"
+}
