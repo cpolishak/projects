@@ -4,11 +4,19 @@
   "private": true,
   "dependencies": {
     "axios": "^0.21.1",
+<<<<<<< HEAD
     "lodash": "^4.17.21",
     "npm": "^6.14.13",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-scripts": "^3.4.4"
+=======
+    "lodash": "^4.17.20",
+    "npm": "^6.14.8",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.3"
+>>>>>>> f3a151b549541f827645ba35a3e7a3ab920933c6
   },
   "scripts": {
     "start": "react-scripts start",
